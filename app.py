@@ -3,7 +3,7 @@
 # ============================================================
 # Alumno: Alexia Lupo
 # URL Streamlit Cloud: https://...streamlit.app
-# URL GitHub: https://github.com/...
+# URL GitHub: https://github.com/alupo-isdi/mda13bc5alupo.git
 
 # ===================== 
 # =======================================
